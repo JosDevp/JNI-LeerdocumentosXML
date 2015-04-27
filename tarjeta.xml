@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>  
+<tarjeta>
+   <personal  id="001">
+
+   <entidad>Euro6000</entidad>  
+   <chip>0893</chip>  
+   <marca>VISA</marca>  
+   <fecha>0415</fecha>
+   <nombre>Marco Antonio Aguilar Juarez</nombre>
+   <banda>09972576363772</banda>
+   <firma>MAAJ1901212</firma>
+   <cvc>0892</cvc>
+   <emisora>BancMex</emisora>  
+</personal>
+ <personal  id="002">
+
+   <entidad>Euro6001</entidad>  
+   <chip>0782</chip>  
+   <marca>MASTERCARD</marca>  
+   <fecha>0411</fecha>
+   <nombre>Jose Guadalupe Hernandez</nombre>
+   <banda>09972576363782</banda>
+   <firma>JGHH682782</firma>
+   <cvc>0867</cvc>
+   <emisora>RegoiBan</emisora>  
+</personal>
+
+<personal  id="003">
+
+   <entidad>Euro6003</entidad>  
+   <chip>078267</chip>  
+   <marca>VISA-MASTERCAD</marca>  
+   <fecha>1215</fecha>
+   <nombre>Lorena Velasquez Casanova</nombre>
+   <banda>99729739833</banda>
+   <firma>LVC782JHT790</firma>
+   <cvc>0557</cvc>
+   <emisora>Bancorte</emisora>  
+</personal>
+
+
+</tarjeta>
